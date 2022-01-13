@@ -1,2 +1,1 @@
-Hello, world!
-**Bold** d
+**Hello, world!**
