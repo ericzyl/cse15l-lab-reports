@@ -1,6 +1,6 @@
-**Hello, world!**
+## Contents
+* [Lab Report 1](lab-report-1-week-2.html)
 
-*cse_lab*
 
 ## TO DO
 [Week 2](https://ucsd-cse15l-w22.github.io/week/week2/)
