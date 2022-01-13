@@ -12,5 +12,7 @@
 * 180B homework
 * 182 lab / homework
 ---
-
-Others
+```
+// code
+System.out.print("Hello.");
+```
