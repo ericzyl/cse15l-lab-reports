@@ -1,2 +1,2 @@
 Hello
-![Image](E:\2022winter\CSE15L\cse15l-lab-reports\image30.png)
+![Image](https://github.com/ericzyl/cse15l-lab-reports/blob/main/image30.png)
