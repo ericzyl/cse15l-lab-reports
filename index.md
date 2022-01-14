@@ -5,6 +5,7 @@
 
 
 ## Course Task
+[week 1](https://ucsd-cse15l-w22.github.io/week/week1/)
 [Week 2](https://ucsd-cse15l-w22.github.io/week/week2/)
 
 
