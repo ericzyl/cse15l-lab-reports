@@ -2,6 +2,7 @@
 
 ## Contents
 [Lab Report 1](lab-report-1-week-2.html)
+<br/>[Lab Report 2](lab-report-1-week-2.html)
 
 ***
 
@@ -9,6 +10,8 @@
 ## Course Task
 [Week 1](https://ucsd-cse15l-w22.github.io/week/week1/)
 <br/> [Week 2](https://ucsd-cse15l-w22.github.io/week/week2/)
+<br/> [Week 3](https://ucsd-cse15l-w22.github.io/week/week3/)
+<br/> [Week 4](https://ucsd-cse15l-w22.github.io/week/week4/)
 
 
 <p align = "center">
