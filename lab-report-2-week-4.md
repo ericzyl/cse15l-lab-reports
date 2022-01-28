@@ -1,5 +1,5 @@
 # Lab 2: Incremental Programming and Debugging
-In this lab, I create several test-files to test if ```MarkdownParse.java``` functions properly or not. I try to write edge cases to see if the program throw any errors or not. And I fix it incrementally in aid of GitHub.
+In this lab, I create several test-files to test if ```MarkdownParse.java``` functions properly or not. I try to write edge cases to see if the program throw any errors. And I fix it incrementally in aid of GitHub.
 <br/><br/>
 
 ## Code Change 1:
