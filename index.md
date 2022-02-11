@@ -3,6 +3,7 @@
 ## Contents
 [Lab Report 1](lab-report-1-week-2.html)
 <br/>[Lab Report 2](lab-report-2-week-4.html)
+<br/>[Lab Report 3](lab-report-3-week-6.html)
 
 ***
 
@@ -12,11 +13,17 @@
 <br/> [Week 2](https://ucsd-cse15l-w22.github.io/week/week2/)
 <br/> [Week 3](https://ucsd-cse15l-w22.github.io/week/week3/)
 <br/> [Week 4](https://ucsd-cse15l-w22.github.io/week/week4/)
+<br/> [Week 5](https://ucsd-cse15l-w22.github.io/week/week5/)
+<br/> [Week 6](https://ucsd-cse15l-w22.github.io/week/week6/)
 
 
 <p align = "center">
     <img src="applepic.png" width="600" height="472" />
 </p>
+
+## PCA is insane... 
+
+Passing intro to Stochastic Process in Stochastic Process...
 
 ## Due Friday
 * 171A lab / homework
