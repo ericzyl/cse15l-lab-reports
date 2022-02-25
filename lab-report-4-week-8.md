@@ -1,4 +1,4 @@
-# Lab 3: More Tests for MarkdownParse
+# Lab Report 4: More Tests for MarkdownParse
 In this lab, I examine my MarkdownParse file and my peer's file with the given test cases.
 
 [my repo](https://github.com/ericzyl/markdown-parse) <br/> [peer's repo](https://github.com/atruong39/markdown-parse)
