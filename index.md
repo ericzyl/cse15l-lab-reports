@@ -1,7 +1,6 @@
 # Yilin's Page
 ## Info
-[Resume](resume1.html)
-<a href="Resume-r20240229.pdf">Download My Resume</a>
+[Resume](Resume-r20240229.pdf)
 
 ## Contents
 [Lab Report 1](lab-report-1-week-2.html)
