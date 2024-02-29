@@ -1,6 +1,6 @@
 # Yilin's Page
 ## Info
-[Resume Download](/Resume-r20240229.pdf)
+[Resume Download](resume1.html)
 
 ## Contents
 [Lab Report 1](lab-report-1-week-2.html)
