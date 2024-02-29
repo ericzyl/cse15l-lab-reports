@@ -1,4 +1,6 @@
 # Yilin's Page
+## Info
+[Resume](lab-report-1-week-2.html)
 
 ## Contents
 [Lab Report 1](lab-report-1-week-2.html)
